@@ -1,11 +1,11 @@
 {
-  "version": "4.2.11",
-  "notes": "تجربة التحديث التلقائي بعد الإصلاح.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.11-update.zip",
-  "size": 993302,
-  "sha256": "14333f45c5d06258ca519de35cae7f476034c5e13da928729c56e94837b0692d",
+  "version": "4.2.12",
+  "notes": "مستوى التحسين: زر × على أي تعديل ما يعجبك يشيله من كل المستويات (وتقدر ترجّعه). والتحديث صار يشتغل على طول بدون ما يستنى البرنامج يخلص شغله.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.12-update.zip",
+  "size": 994429,
+  "sha256": "66cad8618a3db92fb82c8774e684d944259903c9199e4a4a8d4ec73e772731cb",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "z3mVO/8ImIBu11xN/JJut6kWyD5VEkt1UMVwAccfj0p2tJxRKovntdV4XUDryJOXjZtZlT5UF4uzlY6VVPUoAQ=="
+  "sig": "l83WodYMgmJPzGdrSCXKeZ9RJXO8v6Cv5pPYvLh5kzZGkEjIIq7a8jyE87sPXd112268MAT/91N5B5eVqCr8AQ=="
 }
