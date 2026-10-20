@@ -1,11 +1,11 @@
 {
-  "version": "4.2.1",
-  "notes": "طبيب الجهاز: سرعة الرام صارت تنحسب من أبطأ قطعة (كان يقول فعّل XMP غلط لما القطع مختلفة)",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.1-update.zip",
-  "size": 985081,
-  "sha256": "47b7b5c7f50f7eeca66f8e74074034ef2532a01ab77eb93a058b411b942c6bbb",
+  "version": "4.2.2",
+  "notes": "إصلاح التحديث التلقائي، نافذة التحديث صارت بنص الشاشة، وطبيب الجهاز يحسب سرعة الرام من أبطأ قطعة",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.2-update.zip",
+  "size": 986955,
+  "sha256": "3bd593b4d74d2b8ea98f1bc28c18a22a6a2f10bda08147031aa4698e50f0c31e",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "hlQ7IdzDwmkijOWV2EqHUTt06IunHr4IKHtrKcHoXgW1S0YSAWHR1wPEmgeo1euLDgrGN4SdgnMIGYC0UcVEAQ=="
+  "sig": "/ByzQfXlTHuM1TJ7Mp5DiirB7d/+R+7RXEBD6hPbMbj8FDcI2Oud9hSDt2h/9OS/y6m80LJNMHOv7BeT/JSwDg=="
 }
