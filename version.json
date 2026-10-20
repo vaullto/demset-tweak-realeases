@@ -1,11 +1,11 @@
 {
-  "version": "4.2.2",
-  "notes": "إصلاح التحديث التلقائي، نافذة التحديث صارت بنص الشاشة، وطبيب الجهاز يحسب سرعة الرام من أبطأ قطعة",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.2-update.zip",
-  "size": 986955,
-  "sha256": "3bd593b4d74d2b8ea98f1bc28c18a22a6a2f10bda08147031aa4698e50f0c31e",
+  "version": "4.2.3",
+  "notes": "إصلاح خطأ EBUSY وقت التحديث، وتنظيف ملفات التحديث المؤقتة",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.3-update.zip",
+  "size": 987176,
+  "sha256": "c40b8d52c0926e92c6bcb817b42f241460fb56628a833fa5b14acd6b1c9bb1ae",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "/ByzQfXlTHuM1TJ7Mp5DiirB7d/+R+7RXEBD6hPbMbj8FDcI2Oud9hSDt2h/9OS/y6m80LJNMHOv7BeT/JSwDg=="
+  "sig": "QodgiAekUMldSRh0DYQbz5bZRcT5rNgdBx+ZKaWqLoiQvzIivJmOVyTsUHwCM2aF7gzSOm248R3pt4zh4hnRAQ=="
 }
