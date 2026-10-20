@@ -1,11 +1,11 @@
 {
-  "version": "4.2.9",
-  "notes": "مستوى التحسين: ذيل مذنّب للكرة، موجة صدمة، صواعق في (أقصى)، شبكة طاقة متحركة، ميلان مع الماوس، وانفجار ضوء لما تطبّق. وزر (+N بعد) يفتح كل التعديلات.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.9-update.zip",
-  "size": 991770,
-  "sha256": "ce377c59058aed9f409fd94adbee639737a5708edc08afb517921f53b1f59594",
+  "version": "4.2.10",
+  "notes": "إصلاح تركيب التحديث: يسكّر كل عمليات البرنامج قبل لا يبدّل الملفات، وسكربت التركيب صار ينزل مع التحديث نفسه.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.10-update.zip",
+  "size": 993053,
+  "sha256": "5fc1f6362be8acae4a5c7cec3188dae72aa4a568f225f04deef5dad5cb9cb273",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "RnMLXJ5J2chybmyDR1BZY0BcaU+ag4Mn/sc6ZD6apgcSBb0Hl8lBLdgfEGIkIcjZW74Ta9Jd/t9UwrJiog/nAw=="
+  "sig": "HrFa0arnMFa7zCfO4u8dw0c88wFt60gYsGcj5Jp47e9mghqloQMsBk02IE6Yks7i0LQxlCjFCekUZfND1v2xBQ=="
 }
