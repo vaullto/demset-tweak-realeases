@@ -1,11 +1,11 @@
 {
-  "version": "4.2.0",
-  "notes": "كسر سرعة الكرت مع قياس الفرق، صفحة لعبة صافية، حزمة أقصى فريمات، وتحديثات تلقائية من داخل البرنامج",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.0-update.zip",
-  "size": 985698,
-  "sha256": "033278bf8611f038741370fe4d9ea6c868d730ff3be7105e359efb8fe4f2011a",
+  "version": "4.2.1",
+  "notes": "طبيب الجهاز: سرعة الرام صارت تنحسب من أبطأ قطعة (كان يقول فعّل XMP غلط لما القطع مختلفة)",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.1-update.zip",
+  "size": 985081,
+  "sha256": "47b7b5c7f50f7eeca66f8e74074034ef2532a01ab77eb93a058b411b942c6bbb",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "65f0N8aH5X89R0Xwq+dLKx4vpZluwtLKJoakQ9DTjd4mTCo7CSi2V4rkSBULuP9o0zBoAMx5dOa0GMwFF0NDAA=="
+  "sig": "hlQ7IdzDwmkijOWV2EqHUTt06IunHr4IKHtrKcHoXgW1S0YSAWHR1wPEmgeo1euLDgrGN4SdgnMIGYC0UcVEAQ=="
 }
