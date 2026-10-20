@@ -1,11 +1,11 @@
 {
-  "version": "4.2.3",
-  "notes": "إصلاح خطأ EBUSY وقت التحديث، وتنظيف ملفات التحديث المؤقتة",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.3-update.zip",
-  "size": 987176,
-  "sha256": "c40b8d52c0926e92c6bcb817b42f241460fb56628a833fa5b14acd6b1c9bb1ae",
+  "version": "4.2.4",
+  "notes": "يتحقق من التحديثات أول ما تفتح البرنامج وكل ساعة",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.4-update.zip",
+  "size": 987275,
+  "sha256": "7b066cea9592d0863f4e294c172ae9ffc083c47c71414e93cad8caaca43a087d",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "QodgiAekUMldSRh0DYQbz5bZRcT5rNgdBx+ZKaWqLoiQvzIivJmOVyTsUHwCM2aF7gzSOm248R3pt4zh4hnRAQ=="
+  "sig": "McvpG8SbP68sJ4L7bQy7hyY2dWZbLnBxNKvyueKNu11KMsS7V3Iv3e2SfTiW1w/WozvSF60ymZZU0rTVf0l2CA=="
 }
