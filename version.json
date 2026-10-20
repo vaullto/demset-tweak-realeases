@@ -1,11 +1,11 @@
 {
-  "version": "4.2.10",
-  "notes": "إصلاح تركيب التحديث: يسكّر كل عمليات البرنامج قبل لا يبدّل الملفات، وسكربت التركيب صار ينزل مع التحديث نفسه.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.10-update.zip",
-  "size": 993053,
-  "sha256": "5fc1f6362be8acae4a5c7cec3188dae72aa4a568f225f04deef5dad5cb9cb273",
+  "version": "4.2.11",
+  "notes": "تجربة التحديث التلقائي بعد الإصلاح.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.11-update.zip",
+  "size": 993302,
+  "sha256": "14333f45c5d06258ca519de35cae7f476034c5e13da928729c56e94837b0692d",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "HrFa0arnMFa7zCfO4u8dw0c88wFt60gYsGcj5Jp47e9mghqloQMsBk02IE6Yks7i0LQxlCjFCekUZfND1v2xBQ=="
+  "sig": "z3mVO/8ImIBu11xN/JJut6kWyD5VEkt1UMVwAccfj0p2tJxRKovntdV4XUDryJOXjZtZlT5UF4uzlY6VVPUoAQ=="
 }
