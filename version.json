@@ -1,11 +1,11 @@
 {
-  "version": "4.2.13",
-  "notes": "كسر السرعة: القياس صار يطلع بالـ FPS (مع 1% Low)، وفيه قسم جديد \"الأداء في الألعاب\" يوريك كم فريم بتجيب في Cyberpunk 2077 و Warzone و Fortnite وغيرها قبل وبعد الكسر — بأرقام لعبك الحقيقية لو لعبتها ووضع اللعب شغّال.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.13-update.zip",
-  "size": 999330,
-  "sha256": "238752aee125d50f871573a63e24ba0d1451116f47b95804a3e968dd419a2bd6",
+  "version": "4.2.14",
+  "notes": "إصلاح: \"مستوى التحسين\" وتطبيق كذا تويك مرة وحدة ما كان يشغّل الأزرار ولا يحفظ نسخة احتياطية على بعض الأجهزة — الحين ينطبق كل تويك لحاله صح.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.14-update.zip",
+  "size": 999386,
+  "sha256": "45d4d2ad5632995c840b096303df6755f118dfd655fd1c68db64327f1ea6c6ee",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "UoFwX5ID9an1IYMvObKoXimBul3clA0+L71c9/xE2bq4S2v1LTW6dcpjwRrUylsdIFNPRQmzMq4omeEruYphCg=="
+  "sig": "EtIiSoFurpdsIIeNeD+jC2zHkIG7hNZebsu9k7UQTGrrZl8xI6EjOAKxGQmKDZeajdyKXqPBUfd4rzrqO6c7Dg=="
 }
