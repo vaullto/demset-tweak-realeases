@@ -1,11 +1,11 @@
 {
-  "version": "4.2.14",
-  "notes": "إصلاح: \"مستوى التحسين\" وتطبيق كذا تويك مرة وحدة ما كان يشغّل الأزرار ولا يحفظ نسخة احتياطية على بعض الأجهزة — الحين ينطبق كل تويك لحاله صح.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.14-update.zip",
-  "size": 999386,
-  "sha256": "45d4d2ad5632995c840b096303df6755f118dfd655fd1c68db64327f1ea6c6ee",
+  "version": "4.2.15",
+  "notes": "جديد: صفحة \"تقليل العمليات\" (في الصيانة) — كل شي يقلل العمليات بالخلفية مقسم على 3 درجات حسب الخطر، مع عدّاد للعمليات قبل وبعد، ونقطة استعادة تلقائية، وتراجع عن كل شي. وصار المحرك يقدر يعدّل الإعدادات المحمية في النظام.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.15-update.zip",
+  "size": 1011642,
+  "sha256": "90cde18dd3a77e75598218fd52180adf96bf91957fea232a87b9fe7eba197b18",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "EtIiSoFurpdsIIeNeD+jC2zHkIG7hNZebsu9k7UQTGrrZl8xI6EjOAKxGQmKDZeajdyKXqPBUfd4rzrqO6c7Dg=="
+  "sig": "m4Emp57XjlLQyI00nfw9DpislshrI5th4dczpcPcIkTNo2PALj9cSCNxI7o+sQNNvhP5W7PkyvnZoy3lX/2bAQ=="
 }
