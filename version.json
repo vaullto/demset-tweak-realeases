@@ -1,11 +1,11 @@
 {
-  "version": "4.2.5",
-  "notes": "مستوى التحسين: شريط واحد بـ 4 مستويات بدل البروفايلات، بتأثيرات جديدة. ونافذة التحديث تطلع بنص الشاشة كل ما تفتح البرنامج.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.5-update.zip",
-  "size": 989708,
-  "sha256": "11c394d9c14ee89e065c543dc7649a52ddf4d00a12ec68e433b9ca9773fa8fc3",
+  "version": "4.2.6",
+  "notes": "مستوى التحسين بشريط واحد وتأثيرات جديدة، ونافذة التحديث بنص الشاشة، وإصلاح التحديث لما ملفات البرنامج تكون مقفولة",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.6-update.zip",
+  "size": 989936,
+  "sha256": "58db37e85899caa7514920161414e5b3eedd57c372378f84b4aad916819f3b79",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-20",
-  "sig": "v+pzH12pa44T2bTMCe36wUqRNzSDgsyx4spirD79Hz4o8dMk42iLLnzPK04U3fulwlE0T75TnWL/cvNN3X6VCw=="
+  "sig": "/oXoXLyYUK/djiagW16zYKoJuRLOHd03LG3YrRBnhhLEirystCJprlO6WZAr9+9chOvKAfczF96YCyZvQjr5CQ=="
 }
