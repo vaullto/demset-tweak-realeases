@@ -1,11 +1,11 @@
 {
-  "version": "4.2.15",
-  "notes": "جديد: صفحة \"تقليل العمليات\" (في الصيانة) — كل شي يقلل العمليات بالخلفية مقسم على 3 درجات حسب الخطر، مع عدّاد للعمليات قبل وبعد، ونقطة استعادة تلقائية، وتراجع عن كل شي. وصار المحرك يقدر يعدّل الإعدادات المحمية في النظام.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.15-update.zip",
-  "size": 1011642,
-  "sha256": "90cde18dd3a77e75598218fd52180adf96bf91957fea232a87b9fe7eba197b18",
+  "version": "4.2.18",
+  "notes": "جديد: \"حسّن جهازي\" — زر واحد يفحص جهازك ويطبّق ويقيس الفرق. القائمة صارت أبسط، وكل تحسين يقول وش بتحس فيه، وزر \"رجّع كل شي\" دايم تحت. تعريف كرت الشاشة يتحدّث من داخل البرنامج، قياس الأداء صار أوضح، وإصلاحات كثيرة (التحديث، VPN، بدء التشغيل، رسالة \"مو مسؤول\").",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.18-update.zip",
+  "size": 1046253,
+  "sha256": "7da75c0d77853d0fc66c343915cfeceef02f37e0d4fc5f71f62a94313caefaf8",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-20",
-  "sig": "m4Emp57XjlLQyI00nfw9DpislshrI5th4dczpcPcIkTNo2PALj9cSCNxI7o+sQNNvhP5W7PkyvnZoy3lX/2bAQ=="
+  "date": "2026-10-21",
+  "sig": "cg2uX5lg09jkCSyyt5XuzsKVKYobsW4UHoEkqk3qpFoXn6QEZ1nPkO/5UtYmipB61BBaCQBqwYXX9qLHBS2RCQ=="
 }
