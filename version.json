@@ -1,11 +1,11 @@
 {
-  "version": "4.2.18",
-  "notes": "جديد: \"حسّن جهازي\" — زر واحد يفحص جهازك ويطبّق ويقيس الفرق. القائمة صارت أبسط، وكل تحسين يقول وش بتحس فيه، وزر \"رجّع كل شي\" دايم تحت. تعريف كرت الشاشة يتحدّث من داخل البرنامج، قياس الأداء صار أوضح، وإصلاحات كثيرة (التحديث، VPN، بدء التشغيل، رسالة \"مو مسؤول\").",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.18-update.zip",
-  "size": 1046253,
-  "sha256": "7da75c0d77853d0fc66c343915cfeceef02f37e0d4fc5f71f62a94313caefaf8",
+  "version": "4.2.19",
+  "notes": "إصلاح \"تثبيت البرامج\": لو البرامج ما تنثبت (وبس برامج المتجر تشتغل)، البرنامج صار يصلّح Winget بنفسه ويعيد المحاولة. واختصار سطح المكتب صار يطلع لتطبيقات المتجر مثل ChatGPT.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.19-update.zip",
+  "size": 1048089,
+  "sha256": "7ad9161bf38c1bc595297e1649cde7316b841fb4803707acd2b714dbb246a4f8",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-21",
-  "sig": "cg2uX5lg09jkCSyyt5XuzsKVKYobsW4UHoEkqk3qpFoXn6QEZ1nPkO/5UtYmipB61BBaCQBqwYXX9qLHBS2RCQ=="
+  "date": "2026-10-22",
+  "sig": "F7gdCnAWPvNUD41aWPlqB+Arq+mUTG+t84F7Rp9k+RZWhmN7wV5cbxfvN37ffjKtRuF1YRW2/dbriJL4vDCdAw=="
 }
