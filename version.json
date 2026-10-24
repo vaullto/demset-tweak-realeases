@@ -1,11 +1,11 @@
 {
-  "version": "4.2.20",
-  "notes": "إصلاح مهم: تويكات من \"تقليل العمليات\" كانت تخرّب سطح المكتب وشريط المهام في ويندوز 11 — شلناها ونرجّعها تلقائيًا. البرنامج صار يشتغل مع الويندوز (مخفي جنب الساعة، بدون نافذة UAC). التويكات والإصلاحات أسرع بكثير. وضع اللعب صار يهدّي البرامج اللي تاكل المعالج ويحط برامج الخلفية بوضع الكفاءة. جديد: Low Latency Profile، إصلاح قفزات بنق الواي فاي، المتصفحات توفّر الذاكرة، و9 تويكات ثانية. وتخفيف البرامج بالخلفية كل 5 ثواني.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.20-update.zip",
-  "size": 1076451,
-  "sha256": "a83a4629b8f7aebc37faff8898e9f04351e8189d6c498823edf84d30adc699f1",
+  "version": "4.2.21",
+  "notes": "إصلاح \"تثبيت البرامج\": Corsair iCUE و Razer Synapse كانوا ما ينثبتون أبد — صلّحناهم، و13 برنامج للمستخدم بس (Telegram و Slack و Notion وغيرهم) صاروا ينثبتون بصلاحيات المستخدم. واختصار سطح المكتب صار يطلع لكل البرامج: حتى البرامج Portable (أدوات Sysinternals و ThrottleStop و OCCT و Cinebench…) وأدوات الطرفية (Claude Code و Codex…) — ولو ما انسوى اختصار يقولك.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.21-update.zip",
+  "size": 1080588,
+  "sha256": "72803a24aa0aad9c510273034180906b8e20364fad7e0ad2721c257702874c12",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-24",
-  "sig": "2vMFx1792wHxYF6VBnXar1MzR0+c2HWR17VZ9P2w5KWgr/FAMw3XfhK9E0rCI5kmCJyigUFoJZk2rrGnFV5QBQ=="
+  "sig": "6UhIMI5Yh7OSpr7q7rXREDzSxwQcQ/hSTWXadvFoDYCXbXc7D24JiuCslQZc54VuVkPdBBmKQ/mqXK/9kFNUCA=="
 }
