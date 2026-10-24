@@ -1,11 +1,11 @@
 {
-  "version": "4.2.19",
-  "notes": "إصلاح \"تثبيت البرامج\": لو البرامج ما تنثبت (وبس برامج المتجر تشتغل)، البرنامج صار يصلّح Winget بنفسه ويعيد المحاولة. واختصار سطح المكتب صار يطلع لتطبيقات المتجر مثل ChatGPT.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.19-update.zip",
-  "size": 1048089,
-  "sha256": "7ad9161bf38c1bc595297e1649cde7316b841fb4803707acd2b714dbb246a4f8",
+  "version": "4.2.20",
+  "notes": "إصلاح مهم: تويكات من \"تقليل العمليات\" كانت تخرّب سطح المكتب وشريط المهام في ويندوز 11 — شلناها ونرجّعها تلقائيًا. البرنامج صار يشتغل مع الويندوز (مخفي جنب الساعة، بدون نافذة UAC). التويكات والإصلاحات أسرع بكثير. وضع اللعب صار يهدّي البرامج اللي تاكل المعالج ويحط برامج الخلفية بوضع الكفاءة. جديد: Low Latency Profile، إصلاح قفزات بنق الواي فاي، المتصفحات توفّر الذاكرة، و9 تويكات ثانية. وتخفيف البرامج بالخلفية كل 5 ثواني.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.20-update.zip",
+  "size": 1076451,
+  "sha256": "a83a4629b8f7aebc37faff8898e9f04351e8189d6c498823edf84d30adc699f1",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-22",
-  "sig": "F7gdCnAWPvNUD41aWPlqB+Arq+mUTG+t84F7Rp9k+RZWhmN7wV5cbxfvN37ffjKtRuF1YRW2/dbriJL4vDCdAw=="
+  "date": "2026-10-24",
+  "sig": "2vMFx1792wHxYF6VBnXar1MzR0+c2HWR17VZ9P2w5KWgr/FAMw3XfhK9E0rCI5kmCJyigUFoJZk2rrGnFV5QBQ=="
 }
