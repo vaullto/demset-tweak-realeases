@@ -1,11 +1,11 @@
 {
-  "version": "4.2.22",
-  "notes": "إصلاح: الخدمات اللي تطفيها (تقليل العمليات وإزالة الزوائد) كانت ترجع تشتغل. صارت تنطفي على طول (مو بس بعد الريستارت)، والخدمات اللي لكل مستخدم (الإشعارات، الحافظة…) تنطفي صح، وفيه \"حارس الخدمات\": لو تحديث ويندوز أو برنامج رجّع خدمة، يطفيها من جديد كل 10 دقايق. وتويك إيقاف التحديثات صار يطفي خدمة WaaSMedic اللي كانت ترجّعها.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.22-update.zip",
-  "size": 1081418,
-  "sha256": "7b33b9eb2757423fe380f5ec007373636efcd95c62e82228286bb86428e6fd76",
+  "version": "4.2.23",
+  "notes": "البرنامج صار ياكل رام أقل بكثير وهو جنب الساعة: لما تسكّر النافذة تنشال الواجهة من الرام وترجع لما تفتحه، والمراقب (الحرارة والاستهلاك) يشتغل بس والنافذة مفتوحة أو وقت اللعب، والبرنامج يخفف نفسه. كل الميزات تكمل عادي (وضع اللعب، الأوفرلاي، التخفيف، حارس الخدمات). وتحذير الحرارة وقت اللعب صار يطلع كإشعار ويندوز.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.23-update.zip",
+  "size": 1082814,
+  "sha256": "cdaee03d6e5290bb8594bb131e017062cf8bbf84f7a345d9be87c2d452bccecf",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
   "date": "2026-10-25",
-  "sig": "SpxpkQs3W2e1kJvK0Jfcbhzb+FNP3ITpmdhCArFgAiN2TIJgBAa4Hctjvoj0uWS5UKXodcWfAvxaib/0eINSDA=="
+  "sig": "cWQ7H8Ts0KIDCCLpPwrwqUo9flnpAOki0AAerJ0RZZE9IlfZK12MRv9rI9rinECrBvI9Nt0oZHmydoTa+ooQCA=="
 }
