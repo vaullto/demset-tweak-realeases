@@ -1,11 +1,11 @@
 {
-  "version": "4.2.21",
-  "notes": "إصلاح \"تثبيت البرامج\": Corsair iCUE و Razer Synapse كانوا ما ينثبتون أبد — صلّحناهم، و13 برنامج للمستخدم بس (Telegram و Slack و Notion وغيرهم) صاروا ينثبتون بصلاحيات المستخدم. واختصار سطح المكتب صار يطلع لكل البرامج: حتى البرامج Portable (أدوات Sysinternals و ThrottleStop و OCCT و Cinebench…) وأدوات الطرفية (Claude Code و Codex…) — ولو ما انسوى اختصار يقولك.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.21-update.zip",
-  "size": 1080588,
-  "sha256": "72803a24aa0aad9c510273034180906b8e20364fad7e0ad2721c257702874c12",
+  "version": "4.2.22",
+  "notes": "إصلاح: الخدمات اللي تطفيها (تقليل العمليات وإزالة الزوائد) كانت ترجع تشتغل. صارت تنطفي على طول (مو بس بعد الريستارت)، والخدمات اللي لكل مستخدم (الإشعارات، الحافظة…) تنطفي صح، وفيه \"حارس الخدمات\": لو تحديث ويندوز أو برنامج رجّع خدمة، يطفيها من جديد كل 10 دقايق. وتويك إيقاف التحديثات صار يطفي خدمة WaaSMedic اللي كانت ترجّعها.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.22-update.zip",
+  "size": 1081418,
+  "sha256": "7b33b9eb2757423fe380f5ec007373636efcd95c62e82228286bb86428e6fd76",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-24",
-  "sig": "6UhIMI5Yh7OSpr7q7rXREDzSxwQcQ/hSTWXadvFoDYCXbXc7D24JiuCslQZc54VuVkPdBBmKQ/mqXK/9kFNUCA=="
+  "date": "2026-10-25",
+  "sig": "SpxpkQs3W2e1kJvK0Jfcbhzb+FNP3ITpmdhCArFgAiN2TIJgBAa4Hctjvoj0uWS5UKXodcWfAvxaib/0eINSDA=="
 }
