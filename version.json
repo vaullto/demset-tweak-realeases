@@ -1,11 +1,11 @@
 {
-  "version": "4.2.23",
-  "notes": "البرنامج صار ياكل رام أقل بكثير وهو جنب الساعة: لما تسكّر النافذة تنشال الواجهة من الرام وترجع لما تفتحه، والمراقب (الحرارة والاستهلاك) يشتغل بس والنافذة مفتوحة أو وقت اللعب، والبرنامج يخفف نفسه. كل الميزات تكمل عادي (وضع اللعب، الأوفرلاي، التخفيف، حارس الخدمات). وتحذير الحرارة وقت اللعب صار يطلع كإشعار ويندوز.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.23-update.zip",
-  "size": 1082814,
-  "sha256": "cdaee03d6e5290bb8594bb131e017062cf8bbf84f7a345d9be87c2d452bccecf",
+  "version": "4.2.24",
+  "notes": "صفحة جديدة لحذف البرامج من جذورها، تثبيت البرامج صار مرتب بأقسام (المايك والسماعات، المونتاج، التصميم، البث) مع برامج جديدة وأيقونة حقيقية لكل برنامج، التحديثات بتبويبات، العمليات بخمس أولويات حقيقية، تنظيف الألعاب يطلع الثقيلين على جهازك، قياس الأداء ما يعلق، والسجل وحول البرنامج أوضح.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.24-update.zip",
+  "size": 1199878,
+  "sha256": "e3717b91022477f94e6b0caacd2535a43ffc176c30118a665dfb808649df7bb1",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-25",
-  "sig": "cWQ7H8Ts0KIDCCLpPwrwqUo9flnpAOki0AAerJ0RZZE9IlfZK12MRv9rI9rinECrBvI9Nt0oZHmydoTa+ooQCA=="
+  "date": "2026-10-26",
+  "sig": "81z7+NCusWTK0xUv9r5aIziPWzbOD6J+BhTN5ZxSb4OrS5witCzwQ3Sa9XKBoUNPdSyurzdE9Vat+gzlmWIYAg=="
 }
