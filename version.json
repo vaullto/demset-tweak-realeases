@@ -1,11 +1,11 @@
 {
-  "version": "4.2.24",
-  "notes": "صفحة جديدة لحذف البرامج من جذورها، تثبيت البرامج صار مرتب بأقسام (المايك والسماعات، المونتاج، التصميم، البث) مع برامج جديدة وأيقونة حقيقية لكل برنامج، التحديثات بتبويبات، العمليات بخمس أولويات حقيقية، تنظيف الألعاب يطلع الثقيلين على جهازك، قياس الأداء ما يعلق، والسجل وحول البرنامج أوضح.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.2.24-update.zip",
-  "size": 1199878,
-  "sha256": "e3717b91022477f94e6b0caacd2535a43ffc176c30118a665dfb808649df7bb1",
+  "version": "4.3.0",
+  "notes": "Registry Tweaks وفحص مخصص للجهاز مع نسخ واستعادة، ONE CLICK BOOST، قياس اصطناعي فعلي 1080p و1440p و4K دون FPS تقديري للألعاب، استجابة أزرار وواجهة محسنة، حذف واستعادة موثقان، تنظيف الشيدرز، خيارات VPN بالدول المتاحة، وتركيب تحديث أكثر أمانًا.",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.3.0-update.zip",
+  "size": 1251104,
+  "sha256": "833fc5ed1d31e9c7cc33793996e1cd77ec654b89f3710f756ccd246d85aa5576",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-26",
-  "sig": "81z7+NCusWTK0xUv9r5aIziPWzbOD6J+BhTN5ZxSb4OrS5witCzwQ3Sa9XKBoUNPdSyurzdE9Vat+gzlmWIYAg=="
+  "date": "2026-10-27",
+  "sig": "5qn7E56ybLBCx+54ddhOy0vmQHI4aY+ZJIp+o3y64hBDFAR5d/n7a/q293QG/3EAeixhzorP/GL8o7ffxCicAQ=="
 }
