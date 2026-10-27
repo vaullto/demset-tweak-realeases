@@ -1,9 +1,9 @@
 # Demset Tweaks
 
 ## تحميل
-**[⬇ آخر نسخة كاملة](https://github.com/vaullto/demset-tweak-realeases/releases/latest)** — افتح أحدث إصدار وحمّل ملف `Demset-Tweaks-4.3.0-full.zip`، ثم فك الضغط وشغّل `Demset Tweaks.exe` من داخل المجلد. احتفظ ببقية الملفات بجانب ملف التشغيل.
+**[⬇ آخر نسخة كاملة](https://github.com/vaullto/demset-tweak-realeases/releases/latest)** — افتح أحدث إصدار وحمّل ملف `Demset-Tweaks-4.3.1-full.zip`، ثم فك الضغط وشغّل `Demset Tweaks.exe` من داخل المجلد. احتفظ ببقية الملفات بجانب ملف التشغيل.
 
-الإصدار الحالي: **4.3.0**. يشمل Registry Tweaks، وONE CLICK BOOST، وتحسين الواجهة والقياسات، وقياسًا اصطناعيًا فعليًا بدقات 1080p و1440p و4K، وحذفًا واستعادة موثقين.
+الإصدار الحالي: **4.3.1**. يشمل إعادة تصميم ONE CLICK BOOST بصور الألعاب وأزرار مستقلة للبوست، وتحسين Registry Tweaks بخيارات موثقة واستعادة، وإصلاح الأيقونات واستجابة الأزرار، ومؤشرات استهلاك مدمجة، وقياسًا اصطناعيًا فعليًا بدقات 1080p و1440p و4K مع Low وMedium وHigh.
 
 **[المثبّت الصغير السابق](https://github.com/vaullto/demset-tweak-realeases/raw/main/Demset-Tweaks-Setup.exe)** متاح أيضًا؛ قد يحتاج فحص التحديث من داخل البرنامج بعد التثبيت للوصول للإصدار الحالي.
 
