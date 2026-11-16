@@ -1,11 +1,11 @@
 {
-  "version": "4.3.1",
-  "notes": "واجهة ONE CLICK BOOST جديدة مع صور الألعاب وبوست مستقل، Registry Tweaks محسّن مع 0x26 اختياري واستعادة، إصلاح الأيقونات والأزرار، مؤشرات مدمجة، اختبار 1080p و1440p و4K مع Low وMedium وHigh فعلية، ومراعاة الخدمات المطلوبة للبرامج العاملة.",
-  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.3.1-update.zip",
-  "size": 1291250,
-  "sha256": "7ce53f2e7fbcf890d09ce37ec98d2d3dda5e8cd85f7e3d24913a99c5ba496f3c",
+  "version": "4.3.3",
+  "notes": "تصميم جديد لكروت التويكات ولوحة التحكم وصفحات Registry Tweaks وONE CLICK BOOST وكسر سرعة الكرت وحذف البرامج، صفحات الأدوات مجمّعة وبخط أكبر، تعطيل الخدمات صار حقيقي، دقة المؤقّت 0.5ms وقت اللعب، والتويكات غير المثبتة عليها علامة «تجريبي».",
+  "patch": "https://raw.githubusercontent.com/vaullto/demset-tweak-realeases/main/updates/Demset-Tweaks-4.3.3-update.zip",
+  "size": 1308554,
+  "sha256": "def5583b168c107a506a3ddae827584eb6f5a7d1321d267d900346a5218fd5e6",
   "electron": "39.8.10",
   "full": "https://github.com/vaullto/demset-tweak-realeases/releases/latest",
-  "date": "2026-10-28",
-  "sig": "0R5R8AbHXeYLIELO4ZWnKJ87eODwfQLP2P/2+W4S3FEasz01e9aMZzcPeAsC8H/LvXXyXJCRLvlqfWIGkljlDA=="
+  "date": "2026-11-16",
+  "sig": "RU46S/IfO/72GE56Bsjkmge+r95mojdvl4XQs4sB+gvTorz6h8ok9OBC2DEoWp8Q1796CFgzzI2fDhngT+SADA=="
 }
